@@ -12,11 +12,12 @@ se puede hacer modelación de datos sin estadística, pero no se puede hacer sin
 
 Por supuesto, también hay versiones más conciliadoras, como afirma [Steve Miller](http://www.datasciencecentral.com/profile/SteveMiller911) en [More on Statistics vs Data Science](http://www.analyticsearches.com/wps-more-on-statistics-vs-data-science/) el modelado predictivo de la estadística tradicional tiene un propósito distinto al del aprendizaje máquina  (*machine learning*) sin embargo ambos tipos deben ahora ser parte del arsenal del modelador en ciencia de datos. 
 
-
-
 ![DataScience Venn Diagram](http://i2.wp.com/www.jose-gonzalez.org/wp-content/uploads/2013/08/datasciencevendiagram.png)
 
 
-En resumen, 
+**En resumen
+
+La ciencia de datos y  la estadísticas son disciplinas relacionadas. Algunos creen que son la misma cosa, otros que son diferentes y algunos creen que la estadística es solo una parte de la ciencia de datos. Un argumento invatible para esta última postura es que la  ciencia de  datos incluye el **tratamiento de los datos** –limpieza, procesamiento, análisis, manipulación y almacenamiento– y el **analisis de los datos** el cual  puede provenir de la estadística clásica o no.
+
 
 
