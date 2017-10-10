@@ -11,7 +11,9 @@ se puede hacer modelación de datos sin estadística, pero no se puede hacer sin
 Por supuesto, también hay versiones más conciliadoras, como afirma [Steve Miller](http://www.datasciencecentral.com/profile/SteveMiller911) en [More on Statistics vs Data Science](http://www.analyticsearches.com/wps-more-on-statistics-vs-data-science/) el modelado predictivo de la estadística tradicional tiene un propósito distinto al del aprendizaje máquina  (*machine learning*) sin embargo ambos tipos deben ahora ser parte del arsenal del modelador en ciencia de datos. 
 
 
-[[http://i2.wp.com/www.jose-gonzalez.org/wp-content/uploads/2013/08/datasciencevendiagram.png]]
+![DataScience Venn Diagram](http://i2.wp.com/www.jose-gonzalez.org/wp-content/uploads/2013/08/datasciencevendiagram.png)
+
+
 En resumen, 
 
 
