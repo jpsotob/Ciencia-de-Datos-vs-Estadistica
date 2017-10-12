@@ -17,7 +17,7 @@ Por supuesto, también hay versiones más conciliadoras, como afirma [Steve Mill
 
 ## En resumen
 
-La ciencia de datos y  la estadísticas son disciplinas relacionadas. Algunos creen que son la misma cosa, otros que son diferentes y algunos creen que la estadística es solo una parte de la ciencia de datos. Un argumento invatible para esta última postura es que la  ciencia de  datos incluye el **tratamiento de los datos** –limpieza, procesamiento, análisis, manipulación y almacenamiento– y el **analisis de los datos** el cual  puede provenir de la estadística clásica o no.
+La ciencia de datos y  la estadísticas son disciplinas relacionadas. Algunos creen que son la misma cosa, otros que son diferentes y algunos creen que la estadística es solo una parte de la ciencia de datos. Un argumento imbatible para esta última postura es que la  ciencia de  datos incluye el **tratamiento de los datos** –limpieza, procesamiento, análisis, manipulación y almacenamiento– y el **analisis de los datos** el cual  puede provenir de la estadística clásica o no.
 
 
 
